@@ -47,8 +47,7 @@ h2, h3{
 
 .akupara{
     max-width: 100%;
-    border-top: 2px solid #0F345C;
-    margin: 0 auto;
+    margin: 10px auto;
 }
 
 body{
@@ -139,10 +138,6 @@ h3{
     margin: 30px 0 120px 0;
 }
 
-.resources{
-    display: none;
-}
-
 .resources ul{
     margin: 30px 0 0 15%;
     list-style-type: square;
@@ -165,10 +160,6 @@ h3{
     border-bottom: 2px solid #0F345C;
     width: 75%;
     margin: 0 auto;
-}
-
-.resources-container:hover .resources, .resources-container:focus .resources, .resources-container:active .resources{
-    display: block;
 }
 
 @media screen and (max-width: 887px){
